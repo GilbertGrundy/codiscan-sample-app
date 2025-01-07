@@ -1,2 +1,3 @@
-# codiscan-sample-app
+# CODiScan Sample App
+
 Sample app using the CODiScan SDK
